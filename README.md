@@ -20,19 +20,20 @@ The Weather App is a simple web application that provides real-time weather info
 
 ## Project Structure
 
-/weather-app
-├── index.html          # The main HTML file  <br>
-├── style.css           # The CSS file for styling  <br>
-├── index.js            # The JavaScript file for API calls and DOM manipulation  <br>
-└── images/             # Folder containing weather icons and search icon  <br>
-    ├── search.png  <br>
-    ├── clouds.png  <br>
-    ├── clear.png  <br>
-    ├── rain.png  <br>
-    ├── drizzle.png  <br>
-    ├── mist.png  <br>
-    ├── humidity.png  <br>
-    └── wind.png  <br>
+/weather-app<br>
+├── index.html          # The main HTML file<br>
+├── style.css           # The CSS file for styling<br>
+├── index.js            # The JavaScript file for API calls and DOM manipulation<br>
+└── images/             # Folder containing weather icons and search icon<br>
+    ├── search.png<br>
+    ├── clouds.png<br>
+    ├── clear.png<br>
+    ├── rain.png<br>
+    ├── drizzle.png<br>
+    ├── mist.png<br>
+    ├── humidity.png<br>
+    └── wind.png
+
 
 
 ## How to Use
