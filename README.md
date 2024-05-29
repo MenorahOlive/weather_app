@@ -75,9 +75,7 @@ The application uses a combination of Flexbox for layout and linear gradients fo
 - If the user enters an invalid city name, an error message ("Invalid city name") is displayed.
 - The error message is hidden when valid weather data is retrieved.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
